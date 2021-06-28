@@ -1,0 +1,4 @@
+"/Users/blue0print_mbpm1/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/211.7442.42/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/blue0print_mbpm1/OneDrive/Documents/0.Masters/0.USC/CS455x/Assignments/0.Summer 2021/CS455x_HW2/Q3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/blue0print_mbpm1/OneDrive/Documents/0.Masters/0.USC/CS455x/Assignments/0.Summer 2021/CS455x_HW2/Q3/cmake-build-debug

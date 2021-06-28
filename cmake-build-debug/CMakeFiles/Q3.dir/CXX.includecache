@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/blue0print_mbpm1/OneDrive/Documents/0.Masters/0.USC/CS455x/Assignments/0.Summer 2021/CS455x_HW2/Q3/Q3.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+Q3.h
+/Users/blue0print_mbpm1/OneDrive/Documents/0.Masters/0.USC/CS455x/Assignments/0.Summer 2021/CS455x_HW2/Q3/Q3.h
+
+/Users/blue0print_mbpm1/OneDrive/Documents/0.Masters/0.USC/CS455x/Assignments/0.Summer 2021/CS455x_HW2/Q3/Q3.h
+
